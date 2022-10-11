@@ -43,13 +43,13 @@ Just like most university courses, computer sciences degree regularly takes four
 
 Waterloo Co-op Programs rough Time table
 
-|Seqence|F1|W1	|S1	|F2	|W2	|S2	|F2	|W2	|S2	|F2	|W2	|S2	|F2	|W2	|S2 |
-|-------|--|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|1	    |1A|1B	|*	|2A	|*	|2B	|*	|3A	|*	|3B	|*	|4A	|*	|4B	|   |
-|2	    |1A|1B	|*	|2A	|2B	|*	|3A	|*	|3B	|*	|4A	|*	|*	|4B	|   |
-|3	    |1A|1B	|Off|2A	|*	|2B	|*	|3A	|*	|3B	|*	|4A	|*	|*	|4B |
-|4	    |1A|1B	|2A	|*	|2B	|*	|3A	|*	|3B	|*	|4A	|*	|*	|4B	|   |
-|Regular|1A|1B	|Off|2A	|2B	|Off|3A	|3B	|Off|4A	|4B	|Off|N/A|N/A|N/A|	 	 	 
+|Seqence|F1 |W1	|S1	|F2	|W2	|S2	|F3	|W3	|S3	|F4	|W4	|S4	|F5	|W5	|S5 |
+|-------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|1	    |1A |1B |*	|2A	|*	|2B	|*	|3A	|*	|3B	|*	|4A	|*	|4B	|   |
+|2	    |1A |1B |*	|2A	|2B	|*	|3A	|*	|3B	|*	|4A	|*	|*	|4B	|   |
+|3	    |1A |1B |Off|2A	|*	|2B	|*	|3A	|*	|3B	|*	|4A	|*	|*	|4B |
+|4	    |1A |1B |2A	|*	|2B	|*	|3A	|*	|3B	|*	|4A	|*	|*	|4B	|   |
+|Regular|1A |1B |Off|2A	|2B	|Off|3A	|3B	|Off|4A	|4B	|Off|N/A|N/A|N/A|	 	 	 
 
 (* = co-op terms, F = fall term, W = winter term, S = summer term)
 
