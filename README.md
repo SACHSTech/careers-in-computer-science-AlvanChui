@@ -20,6 +20,8 @@ Other than that, you must also have great analytical and organizational skills a
 The software developer pathway requires a degree in computer science.
 The University of Waterloo is a university that is famous for its math and computing faculty. They offer computer science program. The computer science course in University of Waterloo is well known for its well-organized co-op program which may come helpful to my future career.
 
+![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/225px-University_of_Waterloo_seal.svg.png)
+
 
 ## Entrance Requirements
 
@@ -57,7 +59,7 @@ Waterloo Co-op Programs rough Time table
 ## Experimental Learning
 
 ### Co-op Program
-Other than the standard acadamic pathway, work experience in the related field is also critical when it comes to getting a job. Hence, while attending regular standard learning, computer science students can also take a different approach. Co-op programs are offered in many universities. If a student enroll in a Co-op program, they take one more year to complete their degree as your entire year 4 will be a “co-op year” that you will have a full year long job internship. Then come back to the campus to complete the individual's studies in year 5.
+Other than the standard acadamic pathway, work experience in the related field is also critical when it comes to getting a job. Hence, while attending regular standard learning, computer science students can also take a different approach. Co-op programs are offered in many universities. If a student enroll in a Co-op program, they take one more year to complete their degree as some of your academic terms will be occupied as co-op terms; and you will be working in those terms instead of studying on your degree.
 
 On the other hand, Co-op program provides job opportunities which are precious experiences that benefits you in future job interviews; as you will have a more "outstanding" profile than regular students and are given an opportunity to learn briefly about the working environment out there. 
 
@@ -68,13 +70,28 @@ Self-starter projects can also come handy when it comes to getting jobs. These i
 ## Real Job Careers and Salary Ranges
 
 ### Entry level
-First of all, every developer starts as a junior software developer, the approximate salary of an entry level software developer in The Great Toronto Area lies at around *$60k/year*. Their job descriptions are most likely to be simple work like Monitoring technical performance, fixing minor bugs, maintaining the code and gathering user feedbacks.
+First of all, every developer starts as a junior software developer, the approximate salary of an entry level software developer in The Great Toronto Area lies at around *$50-60k/year*. Their job descriptions are most likely to be simple work, such as: 
+1. Monitoring technical performance 
+2. fixing minor bugs
+3. maintaining the code 
+4. gathering user feedbacks, etc.
+
+![alt text](https://miro.medium.com/max/720/1*d9gyl0thCQENQ1n7Kfqa6A.jpeg)
 
 ### Average level
-After a few years of working in the industry, a developer experiences allows them to be participate in more important parts of software development, as well as enjoying higher rewards. For an average software developer's, the salary is at around *$90k/year*. An average software developer's job is to work with other members in the development teams and the customers to ideate software solutions, Design both client-side and server-side architecture, build the front-end of applications and create security, data protection settings and more.
+After a few years of working in the industry, a developer experiences allows them to be participate in more important parts of software development, as well as enjoying higher rewards. For an average software developer's, the salary is at around *$80-90k/year*. An average software developer's job is to: 
+1. work with other members in the development teams and the customers to ideate software solutions
+2. Design both client-side and server-side architecture
+3. build the front-end of applications 
+4. create security, data protection settings, etc.
 
 ### Senior level 
-On par with their high skill levels, a senior software developer has an average salary of *$110k/year*. With the higher wages also come with higher responsibilities. Senior developers are more likely to be in charge for the whole project, which they have to manage the project from end-to-end while actively participating in designing, building and delivering the products at the same time. They also have to lead and mentor their development teams.
+On par with their high skill levels, a senior software developer has an average salary of *$100-110k/year*. With the higher wages also come with higher responsibilities. Senior developers are more likely to be in charge for the whole project, which they are have the responsibility to: 
+1. manage the project from end-to-end 
+2. actively participating in designing, building and delivering the products at the same time. 
+3. lead and mentor their development teams, etc.
+
+![alt text](https://miro.medium.com/max/828/1*K-KsrNT7xMq5iNsycqfV-Q.jpeg)
 
 ---
 
@@ -107,3 +124,10 @@ https://ca.indeed.com/career/software-engineer/salaries/Toronto--ON?from=top_sb
 
 Indeed - Senior Software engineer salary
 https://ca.indeed.com/career/senior-software-engineer/salaries/Toronto--ON
+
+The Salary Of A Software Engineer In Canada, Allen Goo 
+https://gooallen.medium.com/the-salary-of-a-software-engineer-in-canada-71e2b6595c3f 
+
+Wikipedia - University of Waterloo Logo
+https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/225px-University_of_Waterloo_seal.svg.png
+
