@@ -51,7 +51,7 @@ Waterloo Co-op Programs rough Time table
 |4	    |1A |1B |2A	|*	|2B	|*	|3A	|*	|3B	|*	|4A	|*	|*	|4B	|   |
 |Regular|1A |1B |Off|2A	|2B	|Off|3A	|3B	|Off|4A	|4B	|Off|N/A|N/A|N/A|	 	 	 
 
-(* = co-op terms, F = fall term, W = winter term, S = summer term)
+(* = co-op terms, F = fall term, W = winter term, S = spring term)
 
 
 ## Experimental Learning
