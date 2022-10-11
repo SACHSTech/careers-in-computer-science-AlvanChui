@@ -76,6 +76,46 @@ First of all, every developer starts as a junior software developer, the approxi
 3. maintaining the code 
 4. gathering user feedbacks, etc.
 
+```
+Junior Software Developer
+Vetro Tech Inc
+Toronto, ON
+Education: Bachelor's
+Skills: Microsoft Office, C++, JavaScript, HTML5, Operating systems
+We are looking for an enthusiastic junior software developer to join our experienced software design team. Your primary focus will be to learn the codebase, gather user data, and respond to requests from senior developers.
+
+Visa sponsorship available if required,
+Training available if required
+Remote Jobs available
+Candidate must be eligible for visa filling
+To ensure success as a junior software developer, you should have a good working knowledge of basic programming languages, the ability to learn new technology quickly, and the ability to work in a team environment. Ultimately, a top-class Junior Software Developer provides valuable support to the design team while continually improving their coding and design skills.
+
+Junior Software Developer Responsibilities:
+
+Attending and contributing to company development meetings.
+Learning the codebase and improving your coding skills.
+Writing and maintaining code.
+Working on minor bug fixes.
+Monitoring the technical performance of internal systems.
+Responding to requests from the development team.
+Gathering information from consumers about program functionality.
+
+Junior Software Developer Requirements: * Bachelor’s degree in computer science.
+
+Knowledge of basic coding languages including C++, HTML5, and JavaScript.
+Knowledge of databases and operating systems.
+Good working knowledge of email systems and Microsoft Office software.
+Ability to learn new software and technologies quickly.
+Ability to follow instructions and work in a team environment.
+Job Type: Full-time
+
+Salary: $69,000.00-$89,000.00 per year
+
+Schedule:
+
+Monday to Friday
+```
+
 ![alt text](https://miro.medium.com/max/720/1*d9gyl0thCQENQ1n7Kfqa6A.jpeg)
 
 ### Average level
@@ -85,11 +125,99 @@ After a few years of working in the industry, a developer experiences allows the
 3. build the front-end of applications 
 4. create security, data protection settings, etc.
 
+```
+Software Developer, Web Applications (Hybrid/Remote)
+Survalent Technology
+
+JOB TYPE: Full-Time, Permanent
+LOCATION: (REMOTE)
+
+Description
+Software Developer, Web Applications (Hybrid/Remote)
+
+Candidates outside the Greater Toronto Area Welcome to Apply
+
+
+Survalent is looking for an innovative and enthusiastic team player to lead our Web Applications team.  Software Developer (i.e. Full Stack Web Developer) to join our Web Applications team. The team is responsible for delivering high-performance, scalable, secure, and intuitive web applications. You’ll be part of a growing development team and responsible for the full software development life cycle, from conception to design to deployment.
+
+As a Full Stack Web Developer, you should be comfortable around both front-end and back-end coding languages, and modern development frameworks. You should also be a team player with a knack for visual design and willingness to mentor others on rapidly-evolving web technology. If you are passionate about building real-time web applications and eager to learn within a team of accomplished industry developers, this is a great opportunity for you!
+
+Responsibilities & Essential Functions:
+
+Work with development teams, customers, and other subject matter experts to ideate software solutions
+Design client-side and server-side architecture
+Build the front-end of applications through intuitive visual design
+Develop and manage well-functioning databases and applications
+Write effective Web APIs
+Test software to ensure responsiveness, scalability, and efficiency
+Create security and data protection settings
+Build features and applications with a mobile-friendly responsive design
+Write technical documentation
+Troubleshoot, debug, and upgrade software
+Work with analysts, support, and customers to improve software functionality
+Other duties as required
+
+
+Education, Knowledge, Skills & Abilities:
+
+Degree in Electrical Engineering, Power Engineering, Computer Science, or related discipline.
+5+ years’ experience in Software Development.
+Proven experience as a Full Stack Developer or similar role with knowledge of RESTful interfaces, and, or microservices. We are looking for someone who has built scalable web applications and is looking for a challenge.
+Knowledge on front-end web development (e.g. DHTML/HTML5), web standards (e.g. accessibility and cross-browser compatibility), and JavaScript frameworks (e.g. React, Vue, Angular).
+Experience within a spatial/geographic problem set and knowledge of tiled map libraries (e.g. Open Street Map, Bing, Google).
+Experience learning and applying new technologies. Ideally your portfolio shows an ability to learn and develop solutions across platforms, with strong fundamentals in data structures, object-oriented programming, and software design
+Familiarity with multiple databases (e.g. MS SQL Server, Oracle, Redis, MongoDB), web servers (e.g. Apache) and UI/UX design will be an advantage. We build real-time web applications; they must be intuitive and responsive.
+Familiarity with Progressive Web App (PWA), Service Worker, Cache/Local Storage, and Background Sync.
+Familiarity with Git, Jira, and Confluence, or similar infrastructure tools.
+Excellent communication and teamwork skills.
+Great attention to detail and excellent organizational skills and analytical capabilities
+ 
+
+This is a full-time permanent position reporting to the Team Lead, Web Applications. We offer a very competitive compensation package which includes excellent benefits and a profit-sharing plan. We have a casual friendly and highly collaborative environment. If you are interested in joining a growing organization in this exciting role, please apply with a resume and cover letter by selecting the link: https://www.fitzii.com/apply/71716?s=mo
+```
+
 ### Senior level 
 On par with their high skill levels, a senior software developer has an average salary of *$100-110k/year*. With the higher wages also come with higher responsibilities. Senior developers are more likely to be in charge for the whole project, which they are have the responsibility to: 
 1. manage the project from end-to-end 
 2. actively participating in designing, building and delivering the products at the same time. 
 3. lead and mentor their development teams, etc.
+
+```
+Lead Staff/Sr Staff Software Engineer
+ISG Search Inc
+Toronto, ON
+
+JOB TYPE: Full-Time, Permanent
+LOCATION: Toronto, ON
+Job Title: Lead Staff/Sr Staff Software Engineer
+
+Our client…
+
+…is a global technology company creating a more open internet via intelligent advertising at an unprecedented scale. They provide a media buying platform supporting marketers with tools for more control with generating, launching, and analyzing campaigns. Furthermore, they provide tools for forecasting marketing strategy performance.
+
+What's in it for you?
+
+Opportunity to work for industry leader
+Competitive salary
+Proven supportive and collaborative work culture
+Opportunity to build out ambitious high-performance features for varying services
+Flexible hybrid work model
+Wide range of stellar benefits thanks to international presence
+Responsibilities:
+
+Build out highly scalable end-user services that power their platforms. Own your projects from end-to-end while actively participating in design, building, and delivering products. Build up teams through a combination of technical leadership, direct management, and mentoring.
+
+Must Have:
+
+10+ years of Software Engineer experience
+Have a growth-mindset and leave your ego at the door
+Be able to build something from scratch instead of just putting existing pieces together
+Nice to Have:
+
+C# and Java experience are a big plus
+Experience with .NET Core is beneficial
+Service-oriented architecture (SOA) experience
+```
 
 ![alt text](https://miro.medium.com/max/828/1*K-KsrNT7xMq5iNsycqfV-Q.jpeg)
 
