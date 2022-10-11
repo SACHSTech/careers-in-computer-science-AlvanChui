@@ -40,13 +40,20 @@ From January to April, I will take more math courses ([MATH 136](http://ugradcal
 ## Time Taken for Course Completion
 
 Just like most university courses, computer sciences degree regularly takes four years to complete. Alternatively, if you enrolled in the co-op program, it will take another year to complete because during year 2 and year 3, you will be out for working on co-op jobs. for some of the academic terms. Hence, it takes a total of five years if you are into co-op.	 
-|    |Year 1    |Year 2	    |Year 3	    |Year 4	    |Year 5     |
-| -- | -|---|-- | --|---|-- | --|---|-- | --|---|-- | --|---| - |
-|    |F	|W	|S	|F	|W	|S	|F	|W	|S	|F	|W	|S	|F	|W	|S  |
+
+Waterloo Co-op Time table
+|----|--|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|    |F1|W1	|S1	|F2	|W2	|S2	|F2	|W2	|S2	|F2	|W2	|S2	|F2	|W2	|S2 |
+|----|--|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |1	 |1A|1B	|*	|2A	|*	|2B	|*	|3A	|*	|3B	|*	|4A	|*	|4B	|   |
+|----|--|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |2	 |1A|1B	|*	|2A	|2B	|*	|3A	|*	|3B	|*	|4A	|*	|*	|4B	|   |
+|----|--|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |3	 |1A|1B	|Off|2A	|*	|2B	|*	|3A	|*	|3B	|*	|4A	|*	|*	|4B |
+|----|--|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |4	 |1A|1B	|2A	|*	|2B	|*	|3A	|*	|3B	|*	|4A	|*	|*	|4B	|   |
+(* = co-op terms, F = fall term, W = winter term, S = summer term)
+
 
 ## Experimental Learning
 
@@ -92,3 +99,12 @@ https://www.monster.ca/job-openings/software-developer-web-applications-hybrid-r
 
 Workopolis - Junior Software Developer, Vetro Tech Inc
 https://workopolis.com/jobsearch/find-jobs?ak=software+developer&l=Ontario&job=qqyxRZ-T4FLHJqd6eXd7pOvsci3LDAr0AXZpxNv5bMuG5Dc0JKJuFA 
+
+Indeed - Junior Software engineer salary
+https://ca.indeed.com/career/junior-software-engineer/salaries/Toronto--ON?from=top_sb
+
+Indeed - Software engineer salary
+https://ca.indeed.com/career/software-engineer/salaries/Toronto--ON?from=top_sb
+
+Indeed - Senior Software engineer salary
+https://ca.indeed.com/career/senior-software-engineer/salaries/Toronto--ON
