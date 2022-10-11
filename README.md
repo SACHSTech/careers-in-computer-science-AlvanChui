@@ -97,37 +97,37 @@ On par with their high skill levels, a senior software developer has an average 
 
 # Works Cited
 
-University of Waterloo - Computer Science Undergraduate Programs
+Undergraduate Programs: Computer Science (University of Waterloo)
 https://uwaterloo.ca/future-students/programs/computer-science 
 
 
-University of Waterloo - Computer Science Courses
+Computer Science Courses (University of Waterloo)
 https://uwaterloo.ca/future-students/courses/computer-science 
 
-University of Waterloo - Co-op and regular, Cherition school of computer science
+Co-op and regular, Cherition school of computer science (University of Waterloo)
 https://cs.uwaterloo.ca/future-undergraduate-students/co-op-and-regular#regular%20program 
 
-Monster.ca - Lead staff/Sr Staff Software Engineer, ISG Search Inc
+Lead staff/Sr Staff Software Engineer (ISG Search Inc)
 https://www.monster.ca/job-openings/lead-staff-sr-staff-software-engineer-toronto-08--597d0a31-f904-4382-9027-a555c01724af?sid=49b071ce-a014-4489-9cc0-3d5d31a98e05&jvo=m.ga.sg.9&so=v.s.sh&_ga=2.19300091.277874909.1665452945-1923369827.1665452945 
 
-Monster.ca - Software Developer, Web Applications, Survalent Technology
+Software Developer, Web Applications (Survalent Technology)
 https://www.monster.ca/job-openings/software-developer-web-applications-hybrid-remote--0c509fc7-5278-45dd-b0bc-2d97407010c4?sid=a09e2ba3-e5cb-400c-9b63-0c8f882d4577&jvo=m.ga.sg.1&so=m.h.s&_ga=2.258298185.277874909.1665452945-1923369827.1665452945 
 
-Workopolis - Junior Software Developer, Vetro Tech Inc
+Junior Software Developer (Vetro Tech Inc)
 https://workopolis.com/jobsearch/find-jobs?ak=software+developer&l=Ontario&job=qqyxRZ-T4FLHJqd6eXd7pOvsci3LDAr0AXZpxNv5bMuG5Dc0JKJuFA 
 
-Indeed - Junior Software engineer salary
+Junior Software engineer salary
 https://ca.indeed.com/career/junior-software-engineer/salaries/Toronto--ON?from=top_sb
 
-Indeed - Software engineer salary
+Software engineer salary
 https://ca.indeed.com/career/software-engineer/salaries/Toronto--ON?from=top_sb
 
 Indeed - Senior Software engineer salary
 https://ca.indeed.com/career/senior-software-engineer/salaries/Toronto--ON
 
-The Salary Of A Software Engineer In Canada, Allen Goo 
+The Salary Of A Software Engineer In Canada (Allen Goo) 
 https://gooallen.medium.com/the-salary-of-a-software-engineer-in-canada-71e2b6595c3f 
 
-Wikipedia - University of Waterloo Logo
+University of Waterloo Logo (Wikipedia)
 https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/225px-University_of_Waterloo_seal.svg.png
 
